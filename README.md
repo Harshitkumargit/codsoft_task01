@@ -1,4 +1,4 @@
-## This is Task#01 of codsoft internship
+## This is Task#01 of codsoft internship on titanic survival prediction
 
 To open the jupyter notebook open "Titanic-Survival-Prediction01.ipynb" file .
 
